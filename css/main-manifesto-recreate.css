@@ -1,0 +1,147 @@
+body{
+	font-family: 'Arvo', serif;
+	text-transform: uppercase;
+	text-align: justify;
+	font-weight: bold;
+	margin: 10px;
+	width: 420px;
+  	border: solid 4px;
+  	padding: 30px; 
+	overflow: auto;
+	clear: both;
+}	
+#this {
+	font-size: 30px;
+	line-height: 25px;
+}
+#life {
+	font-size: 82px;
+	float: right;
+	line-height: 15px;
+}
+#do {
+	font-size: 19px; 
+	word-spacing: -2px;
+	line-height: 19px;
+}
+#and-do {
+	font-size: 21px;
+	word-spacing: 4px;	
+	line-height: 21px;
+}
+#if-you {
+	font-size: 17px;
+	line-height: 21px;
+	word-spacing: 2px;
+}	
+#your-job {
+	font-size: 22px;
+	word-spacing: 2px;
+	line-height: 22px;
+}
+#tv {
+	font-size: 13px;
+	word-spacing: 3px;
+	line-height: 13px;
+}
+#love {	
+	font-size: 14px;
+	word-spacing: -0.5px;
+	line-height: 14px;
+}
+#they {
+	font-size: 17px;
+	line-height: 17px;
+}	
+#start {
+	font-size: 23px;
+	word-spacing: 2px;
+	line-height: 23px;
+}	
+#stop-over {
+	font-size:18px;
+	line-height: 18px;
+	float: left;
+}
+#life-is {
+	font-size: 28px;	
+	line-height: 10px;
+	float: left;
+}	
+#all-emotions {
+	font-size: 11px;
+	line-height: 11px;
+}	
+#open {
+	font-size: 17px;
+	line-height: 19px;
+	clear: both;
+}	
+#thing-people {
+	font-size: 13px;
+	line-height: 13px;
+	word-spacing: -1px;
+}	
+#ask {
+	font-size: 13px;
+	line-height: 13px;
+	word-spacing: 2px;
+}	
+#share {
+	font-size: 15px;
+	line-height: 15px;
+	word-spacing: 2px;
+}	
+.emphasis-1 {
+	font-size: 20px;
+	line-height: 20px;
+}
+#travel {
+	font-size: 30px;
+	line-height: 29px;
+	word-spacing: 1px;
+	float: left;
+}
+#getting-lost {
+	font-size: 11px;
+}
+.emphasis-4 {
+	font-size: 15px;
+}
+#some-opp {
+	font-size: 14px;
+	word-spacing: -1px;
+	line-height: 14px;
+	float: left;
+}
+#about-people {
+	font-size: 18px;
+	line-height: 18px;
+}
+#you-create {
+	font-size: 20px;
+	line-height: 20px;
+}
+#start-creating {
+	font-size: 22px;
+	line-height: 22px;
+	word-spacing: 3px;
+}
+#life-is-short {
+	font-size: 48px;
+	word-spacing: 1px;
+	line-height: 44px;
+	float: left;
+}
+#live-your-dream {
+	font-size: 22px;
+	line-height: 22px;
+}
+.emphasis-2 {
+	font-size: 35px;
+	line-height: 34px;
+}
+#your-passion {
+	font-size: 28px;
+	line-height: 27px;
+}
